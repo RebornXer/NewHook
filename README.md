@@ -2889,7 +2889,7 @@ local NameGames = Infomation.Name
 local Unit1 = game:GetService("Players").LocalPlayer.PlayerGui.PAGES.SummonPage.Holder.HolderBannerScene.StandardFrame:FindFirstChild("1").Text
 local Unit2 = game:GetService("Players").LocalPlayer.PlayerGui.PAGES.SummonPage.Holder.HolderBannerScene.StandardFrame:FindFirstChild("2").Text
 local Unit3 = game:GetService("Players").LocalPlayer.PlayerGui.PAGES.SummonPage.Holder.HolderBannerScene.StandardFrame:FindFirstChild("3").Text
-WebHook = "https://discord.com/api/webhooks/1258252963273511033/-lLva7W99VoD2LHXMK-N8uuwcvzMgTesRq74mprcNKBgE8K3UPDuVLcQJwXfFwYt6mdH"
+WebHook = "https://discord.com/api/webhooks/1258464839525859359/kW1Xvv11BOKkG4M9NTdjs6hwzQlaIgl7Nre01XDRNiSfv8JVwenBEpbyiTudQRjkV61T"
 print("ถึงเวลาละ")
 if WebHook ~= "" then
     pcall(function()
